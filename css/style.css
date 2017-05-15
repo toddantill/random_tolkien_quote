@@ -1,0 +1,51 @@
+
+body {
+    background-image: url('https://www.dropbox.com/s/ri1f2tumm9d58s4/floral_parchment.jpg?raw=1');
+    background-size: cover;
+}
+
+#quote {
+    clear: both;
+}
+
+.quote-box {
+    background-color: #bca674;
+    margin-top: 100px;
+    box-shadow: 2px 6px 13px 0px #90805f;
+    border-radius: 2px;
+    border: solid #90805f 1px;
+    padding: 20px;
+    font-family: 'Fondamento', cursive;
+    font-size: 30px;
+}
+.actions {
+    float: right;
+    width: 100%;
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+.actions a,
+.actions button {
+    font-family: 'Fondamento', cursive;
+    font-size: 18px;
+    display: inline-block;
+    background-color: #49633b;
+    padding: 5px 10px;
+    border-radius: 3px;
+    color: #fff;
+    border: none;
+}
+
+.actions a:hover,
+.actions button:hover {
+    background-color: #587549;
+}
+
+.the-professor {
+    float: right;
+    font-family: 'Euphoria Script', cursive;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top:10px;
+}
